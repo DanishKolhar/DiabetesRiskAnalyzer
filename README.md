@@ -108,12 +108,6 @@ This project is developed for educational and research purposes only. Prediction
 
 **Mohammed Danish Kolhar**
 
-- B.Tech Computer Science & Engineering
-- Vishwakarma University, Pune
-- Machine Learning Enthusiast
-- Game Developer
-- Public Speaker
 
----
 
 ⭐ If you found this project useful, consider giving it a star on GitHub!
